@@ -2,12 +2,12 @@
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 <p><em>Full Stack Web-Devloper</em>
 
-<h4> Latest Blog Posts: </h4>
+<h4> My Latest things: </h4>
 
   - [Community Engagement Project](https://github.com/tannmayygupta/community-engagement)
   - [Took Session on GDG's Web Wizard 3.0](https://github.com/tannmayygupta/webwiz)
   - [My leetcode ](https://github.com/tannmayygupta/leetcode)
-  - [[Shorten-url][for my honors project](https://github.com/tannmayygupta/short-url-project)
+  - [[Shorten-url](https://github.com/tannmayygupta/short-url-project)
   - [My Codeforces](https://github.com/tannmayygupta/CodeForces)
 
 
