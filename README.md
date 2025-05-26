@@ -1,6 +1,6 @@
 <h2>Hi, I'm Tanmay! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
-<p><em> Frontend Devloper</em>
+<p><em> Fullstack WebDevloper</em>
 <br>
 <em> "love pushing, pulling — just hoping everything syncs before it sinks..🚤🚤]"</em>
 
