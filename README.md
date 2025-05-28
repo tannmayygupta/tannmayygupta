@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 <p><em> Fullstack WebDevloper</em>
 <br>
-<em> "love pushing, pulling — just hoping everything syncs before it sinks..🚤🚤]"</em>
+<em> "love pushing, pulling — just hoping everything syncs before it sinks..🚤🚤"</em>
 
 <h4> My Latest things: </h4>
 
