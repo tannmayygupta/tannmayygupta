@@ -1,5 +1,5 @@
 <h2> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" /> Hi, I'm Tanmay!</h2>
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" height="500" width="300" />
 <p><em> Fullstack WebDevloper</em>
 <br>
 <em> "love pushing, pulling — just hoping everything syncs before it sinks..🚤🚤"</em>
