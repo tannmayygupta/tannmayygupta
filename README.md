@@ -1,15 +1,16 @@
-<h2> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" /> I'm Tanmay Gupta!, a Computer Science student. </h2>
+<h2> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" /> I'm Tanmay Gupta!</h2>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
-<h3> <em> "Love pushing, pulling — just hoping everything syncs before it sinks..🚤🚤"</em> </h3>
+<h4>"Love pushing, pulling — just hoping everything syncs before it sinks🚤."</h4>
 
-💻 I love building web apps using the MERN stack (MongoDB, Express, React, Node.js).<br>
-🔢 I regularly practice Data Structures & Algorithms to improve problem-solving.<br>
-📚 Always learning something new in tech – from backend APIs to frontend UI/UX.<br>
-🔧 I enjoy working on projects, exploring open-source, and building useful tools.<br>
-🧠 Curious about AI, cloud, and full-stack development.<br>
-🛠️ Skilled in JavaScript, Java, React, Node.js, and Firebase.<br>
-📬 Let’s connect and collaborate on cool tech stuff!
+<em>
+  💻 Building web apps using the MERN Stack Developer.<br>
+  🔢 Practice Data Structures & Algorithms to improve problem-solving.<br>
+  🔧 I enjoy working on projects, exploring open-source<br>
+  🧠 Curious about AI, cloud, and full-stack development.<br>
+  🛠️ Skilled in JavaScript, Java, React, Node.js, and Firebase.<br>
+  📬 Let’s connect and collaborate on cool tech stuff!
 
+</em>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/whyylifee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanmayyguptaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tanmay-gupta-466015245/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/tanmayyguptaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/itstanmay05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanmayg460@gmail.com) 
