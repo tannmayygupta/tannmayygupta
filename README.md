@@ -2,8 +2,8 @@
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350" height= "250"/>
 <h4>"Love pushing, pulling — just hoping everything syncs before it sinks🚤."</h4><br>
 <pre><em>
-  • Currently Practicing Data Structures & Algorithms & Learning AI <br><br>
-  • Skilled in Java, JavaScript, React, Node.js, MongoDB and Firebase.<br><br>
+  • Currently Practicing Data Structures & Algorithms & Learning AI <br>
+  • Skilled in Java, JavaScript, React, Node.js, MongoDB and Firebase.<br>
   • How to reach me tanmayg460@gmail.com
 </em></pre>
 
