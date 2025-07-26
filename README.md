@@ -1,16 +1,13 @@
-<h2> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" /> I'm Tanmay Gupta!</h2>
+<h2> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="25" /> I'm Tanmay Gupta!</h2>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350" height= "250" />
 
 <h4>"Love pushing, pulling — just hoping everything syncs before it sinks🚤."</h4>
 
 <em>
-  💻 Building web apps using the MERN Stack Developer.<br>
-  🔢 Practice Data Structures & Algorithms to improve problem-solving.<br>
-  🔧 I enjoy working on projects, exploring open-source<br>
-  🧠 Curious about AI, cloud, and full-stack development.<br>
-  🛠️ Skilled in JavaScript, Java, React, Node.js, and Firebase.<br>
-  📬 Let’s connect and collaborate on cool tech stuff!
-
+  
+  🔢 Currently Practicing Data Structures & Algorithms & Learning AI <br><br>
+  🛠️ Skilled in Java, JavaScript, React, Node.js, and Firebase.<br><br>
+  📫 How to reach me tanmayg460@gmail.com
 </em>
 
 ## 🌐 Socials:
