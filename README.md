@@ -4,7 +4,7 @@
 <pre>
   • Currently Practicing Data Structures & Algorithms & Learning AI <br>
   • Skilled in Java, JavaScript, React, Node.js, MongoDB and Firebase.<br>
-  • How to reach me tanmayg460@gmail.com
+  • reach me **tanmayg460@gmail.com**
 </pre>
 
 ## 🌐 Socials:
