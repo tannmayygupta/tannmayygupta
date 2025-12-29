@@ -7,7 +7,9 @@
   • reach me <b>tanmayg460@gmail.com</b>
 </pre>
 
-
+<div align="center">
+  <img src="https://hits.sh/github.com/tannmayygupta.svg?style=for-the-badge&label=profile%20views" alt="Visitor Count" />
+</div>
 
 
 ## 🌐 Socials:
