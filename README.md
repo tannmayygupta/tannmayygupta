@@ -7,9 +7,7 @@
   • reach me <b>tanmayg460@gmail.com</b>
 </pre>
 
-<div align="center">
-  <img src="https://hits.sh/github.com/tannmayygupta.svg?style=for-the-badge&label=profile%20views" alt="Visitor Count" />
-</div>
+
 
 
 ## 🌐 Socials:
@@ -30,7 +28,9 @@
 [![](https://visitcount.itsvg.in/api?id=tannmayygupta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
+<div align="center">
+  <img src="https://hits.sh/github.com/tannmayygupta.svg?style=for-the-badge&label=profile%20views" alt="Visitor Count" />
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
