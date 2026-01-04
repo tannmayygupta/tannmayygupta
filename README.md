@@ -1,6 +1,13 @@
 <h1> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="35" /> I'm Tanmay Gupta!</h1>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350" height= "250"/>
 <em> <h4>"Love pushing, pulling — just hoping everything syncs before it sinks🚤."</h4></em>
+
+<h4>
+  I’m a Pre final-year CSE student who loves solving problems with code, from algorithmic challenges to real-world issues. 
+  I’m practical, curious, and always eager to learn. 
+  I’m open to opportunities, and collaborations that help me grow while contributing to something meaningful.
+</h4>
+
 <pre>
   • Currently Practicing Data Structures & Algorithms & Learning AI <br>
   • Skilled in Java, JavaScript, React, Node.js, MongoDB and Firebase.<br>
