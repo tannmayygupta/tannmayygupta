@@ -8,11 +8,11 @@
   I’m open to opportunities, and collaborations that help me grow while contributing to something meaningful.
 </h5>
 
-<pre>
-  • Data Structures & Algorithms <br>
-  • Skilled in Java, JavaScript, React, Node.js, MongoDB, Firebase and n8n.<br>
-  • Connect with me -> <b>tanmayg460@gmail.com</b>
-</pre>
+<ul>
+   <li> Data Structures & Algorithms </li>
+   <li> Skilled in Java, JavaScript, React, Node.js, MongoDB, Firebase and n8n. </li>
+   <li> Connect with me -> <b>tanmayg460@gmail.com</b> </li>
+</ul>
 
 
 ## 🌐 Socials:
