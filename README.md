@@ -2,19 +2,17 @@
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="350" height= "250"/>
 <em> <h4>"Love pushing, pulling — just hoping everything syncs before it sinks🚤."</h4></em>
 
-<h4>
-  I’m a Pre final-year CSE student who loves solving problems with code, from algorithmic challenges to real-world issues. 
+<h5>
+  I’m a Pre Final-year CSE student who loves solving problems with code, from algorithmic challenges to real-world issues. 
   I’m practical, curious, and always eager to learn. 
   I’m open to opportunities, and collaborations that help me grow while contributing to something meaningful.
-</h4>
+</h5>
 
 <pre>
-  • Currently Practicing Data Structures & Algorithms & Learning AI <br>
-  • Skilled in Java, JavaScript, React, Node.js, MongoDB and Firebase.<br>
-  • reach me <b>tanmayg460@gmail.com</b>
+  • Data Structures & Algorithms <br>
+  • Skilled in Java, JavaScript, React, Node.js, MongoDB, Firebase and n8n.<br>
+  • Connect with me -> <b>tanmayg460@gmail.com</b>
 </pre>
-
-
 
 
 ## 🌐 Socials:
