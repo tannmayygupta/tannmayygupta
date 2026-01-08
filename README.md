@@ -4,7 +4,7 @@
 
 
 <h3>
-  I’m a Pre Final-year CSE student who loves solving problems with code, from algorithmic challenges to real-world issues. 
+  A Pre Final-year CSE student who loves solving problems with code, from algorithmic challenges to real-world issues. 
   I’m practical, curious, and always eager to learn. 
   I’m open to opportunities, and collaborations that help me grow while contributing to something meaningful.
 </h3>
