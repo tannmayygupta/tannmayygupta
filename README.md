@@ -12,8 +12,6 @@
 
 
 <ul>
-   <li> Data Structures & Algorithms </li>
-   <li> Skilled in Java, Python, JavaScript, React, Node.js, MongoDB, Firebase and n8n. </li>
    <li> Connect with me -> <b>tanmayg460@gmail.com</b> </li>
 </ul>
 
