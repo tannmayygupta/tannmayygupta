@@ -1,19 +1,20 @@
-<h1> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="35" /> I'm Tanmay Gupta!</h1>
+<h1> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="35" /> My Name is Tanmay Gupta!</h1>
 
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="250" height= "250"/>
-<i> <h4>"Love pushing, pulling — just hoping everything syncs before it sinks..."</i></h4>
+<i> <h5>"Love pushing, pulling — just hoping everything syncs before it sinks."</i> </h5>
 
 
-<h3>
-  I am a Pre Final-year CSE student who loves solving problems with code, from algorithmic challenges to real-world issues. 
+<p>
+  I am a CS Undergrad student who loves solving problem with code, from algorithmic challenges to real-world issues. 
   I’m practical, curious, and always eager to learn. 
   I’m open to opportunities, and collaborations that help me grow while contributing to something meaningful.
-</h3>
+  Gaining knowledge of understanding codebases and solving issues by trying to contributor in open source.
+</p>
 
 
 
 <ul>
-   <li> Connect with me -> <b>tanmayg460@gmail.com</b> </li>
+   <li> Email: tanmayg460@gmail.com </li>
 </ul>
 
 
