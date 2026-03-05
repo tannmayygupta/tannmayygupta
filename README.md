@@ -5,12 +5,17 @@
 <i> <h3>"Love pushing, pulling — just hoping everything syncs before it sinks."</i> </h3>
 
 
+
+
+
 <p>
   I am a CS Undergrad student who loves solving problem with code, from algorithmic challenges to real-world issues. 
-  I'm practical, curious, and always eager to learn. 
-  I'm open to opportunities, and collaborations that help me grow while contributing to something meaningful.
+  I’m practical, curious, and always eager to learn. 
+  I’m open to opportunities, and collaborations that help me grow while contributing to something meaningful.
   Gaining knowledge of understanding codebases and solving issues by trying to contributor in open source.
 </p>
+
+
 
 
 <ul>
@@ -40,10 +45,7 @@
   <img src="https://hits.sh/github.com/tannmayygupta.svg?style=for-the-badge&label=profile%20views" alt="Visitor Count" />
 </div>
 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
 
-## 🔥 Daily Activity
-<!-- STREAK:START -->
-<!-- STREAK:END -->
