@@ -4,7 +4,7 @@
 
 <h1> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="35" /> My name is Tanmay Gupta!</h1>
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="280" height= "330"/>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="270" height= "300"/>
 
 <i> <h3>"Love pushing, pulling — just hoping everything syncs before it sinks."</i> </h3>
 
@@ -12,13 +12,13 @@
 
 
 
-<pre>
+<p>
   I am a CS Undergrad student who loves solving problem with code, from algorithmic 
   challenges to real-world issues. I’m practical, curious, and always eager to learn. 
   I’m open to opportunities, and collaborations that help me grow while contributing 
   to something meaningful.Gaining knowledge of understanding codebases and solving 
   issues by trying to contributor in open source.
-</pre>
+</p>
 
 
 
