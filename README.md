@@ -5,9 +5,6 @@
 <i> <h3>"Love pushing, pulling — just hoping everything syncs before it sinks."</i> </h3>
 
 
-
-
-
 <p>
   I am a CS Undergrad student who loves solving problem with code, from algorithmic 
   challenges to real-world issues. I’m practical, curious, and always eager to learn. 
