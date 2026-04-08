@@ -10,8 +10,6 @@
   to something meaningful.Gaining knowledge of understanding codebases and solving 
   issues by trying to contributor in open source.
 </p>
-
-
 <ul>
    <li> Email: tanmayg460@gmail.com </li>
 </ul>
