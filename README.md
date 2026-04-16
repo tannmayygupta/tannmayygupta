@@ -7,7 +7,7 @@
   I am a CS Undergrad student who loves solving problem with code, from algorithmic 
   challenges to real-world issues. I’m practical, curious, and always eager to learn. 
   I’m open to opportunities, and collaborations that help me grow while contributing 
-  to something meaningful.Gaining knowledge of understanding codebases and solving 
+  to something meaningful. Gaining knowledge of understanding codebases and solving 
   issues by trying to contributor in open source.
 </p>
 
