@@ -1,5 +1,6 @@
 <h1> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="35" /> My name is Tanmay Gupta!</h1>
 
+
 <img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="320">
 <i> <h3>"Love pushing, pulling — just hoping everything syncs before it sinks."</i> </h3>
 <p>
