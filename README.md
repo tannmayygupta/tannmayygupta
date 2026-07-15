@@ -1,5 +1,3 @@
-
-
 <h1> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="35" /> My name is Tanmay Gupta!</h1>
 
 
