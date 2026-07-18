@@ -23,5 +23,3 @@
 <div align="center">
   <img src="https://hits.sh/github.com/tannmayygupta.svg?style=for-the-badge&label=profile%20views" alt="Visitor Count" />
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
