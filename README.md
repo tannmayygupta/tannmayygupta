@@ -3,11 +3,9 @@
 <img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="320">
 <i> <h3>"Love pushing, pulling — just hoping everything syncs before it sinks."</i> </h3>
 <p>
-  I am a CS Undergrad student who loves solving problem with code, from algorithmic 
-  challenges to real-world issues. I’m practical, curious, and always eager to learn. 
-  I’m open to opportunities, and collaborations that help me grow while contributing 
-  to something meaningful.Gaining knowledge of understanding codebases and solving 
-  issues by trying to contributor in open source.
+  Backend & AI focused engineer who builds reliable solutions with experience designing APIs and data models. Driven by solving
+problems through code and continuously adapting to new technology. Practical, curious, and focused on building software that
+solves real-world problems and delivers meaningful impact.
 </p>
 <ul>
    <li> Email: tanmayg460@gmail.com </li>
