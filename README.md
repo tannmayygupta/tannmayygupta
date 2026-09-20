@@ -2,6 +2,9 @@
 
 <h1> <img src="https://github.githubassets.com/images/mona-whisper.gif" height="35" /> My name is Tanmay Gupta!</h1>
 
+
+<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="320">
+
 <p>
   Backend & AI focused engineer who builds reliable solutions with experience designing APIs and data models. Driven by solving
 problems through code and continuously adapting to new technology. Practical, curious, and focused on building software that
@@ -11,8 +14,6 @@ solves real-world problems and delivers meaningful impact.
    <li> Email: tanmayg460@gmail.com </li>
 </ul>
 
-
-<img align="right" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="320">
 <i> <h3>"Love pushing, pulling — just hoping everything syncs before it sinks."</i> </h3>
 
   
