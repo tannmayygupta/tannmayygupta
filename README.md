@@ -14,6 +14,9 @@ solves real-world problems and delivers meaningful impact.
   
 <i> <h3>"Love pushing, pulling — just hoping everything syncs before it sinks."</i> </h3>
 
+
+<br>
+
 <div align="center">
   <img src="https://hits.sh/github.com/tannmayygupta.svg?style=for-the-badge&label=profile%20views" alt="Visitor Count" />
 </div>
